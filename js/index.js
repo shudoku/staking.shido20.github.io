@@ -9,7 +9,7 @@ function showHideBtns(_btn_id, _to_show) {
         // $(_btn_id).show();
         $(_btn_id).find('span:first').html('Connect');
     } else {
-        $(_btn_id).prop('disabled', true);
+        $(_btn_id).prop('disabled', false);
         // $(_btn_id).hide();
         $(_btn_id).find('span:first').html('Processing...');
     }
