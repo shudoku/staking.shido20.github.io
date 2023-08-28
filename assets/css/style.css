@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 50px;
   text-transform: uppercase;
 }
 
@@ -114,7 +114,7 @@ a:active,
 a:hover {
   text-decoration: none;
   outline: 0 none;
-  color: #A3FF12;
+  color: #ff5d12;
 }
 
 ul {
@@ -253,7 +253,7 @@ body .modal-backdrop {
   z-index: 9;
   overflow: hidden;
   padding: 170px 0 225px;
-  background: url("../images/bg/banner-bg.jpg");
+  background: url("../images/");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -3938,7 +3938,7 @@ body .modal-backdrop {
   padding: 16px 20px;
   position: relative;
   color: rgba(211, 211, 211, 0.7);
-  border-radius: 20px 0px 0px 20px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .project-details-conent .project-item .project-form-list .balance-form-area input[type="text"] {
@@ -3964,7 +3964,7 @@ body .modal-backdrop {
   padding-left: 30px;
   padding-right: 30px;
   width: 170px;
-  border-radius: 0px 20px 20px 0px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .project-details-conent .project-item .project-form-list .balance-form-area .approve input[type="submit"] {
@@ -12976,7 +12976,7 @@ div.latest-item .hover-shape-bg {
 /*--- Gamfi Header Section CSS ---*/
 .gamfi-header-section {
   background-color: #090A1A;
-  padding: 25px 0;
+  padding: 20px 0;
 }
 
 .gamfi-header-section.transparent-header {
@@ -12987,7 +12987,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi-header-section.default-header {
-  background: #090A1A;
+  background: #00043A;
   position: relative;
   z-index: 11;
 }
