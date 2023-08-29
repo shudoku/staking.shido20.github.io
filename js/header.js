@@ -8,7 +8,7 @@ let _CONTRACT_DATA = {};
 const _API_URL = 'https://7yjhmmd390.execute-api.ap-south-1.amazonaws.com/prod'
 
 _CONTRACT_DATA[_NETWORK_ID] = {
-    network_name: "Smart Chain",
+    network_name: "Binance Smart Chain",
     explorer_url: 'https://bscscan.com',
     STACKING: {
         sevenDays: {
