@@ -1460,8 +1460,8 @@
     font-family: 'Inter', sans-serif;
 }
 .project-details-conent .table-item h5,
- .project-details-conent .table-item {margin-bottom:8px !important}
-@media only screen and (max-width: 767px) {
+ .project-details-conent .table-item {margin-bottom: 0px !important; margin-top: 0px !important}
+@media only screen and (max-width: 800px) {
     .gamfi-footer-section .footer-area {
         padding-top: 50px;
     }
