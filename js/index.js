@@ -129,16 +129,16 @@ async function loadInitialData(sClass) {
         }
 
         if(currentDate > endDate || isStakingPaused) {
-            $('.stake-btn-block').show();
+            $('.stake-btn-block').hide();
         } else {
             $('.stake-btn-block').show();
         }
 
-        // let cApy = await cObj.methods.getAPY().call();
+         let cApy = await cObj.methods.getAPY().call();
 
-        // console.log('cApy', cApy);
+        console.log('cApy', cApy);
         
-        // $(`#${sClass} .apy`).html(`${cApy / 100} %`);
+        $(`#${sClass} .apy`).html(`${cApy / 100} %`);
 
         if(isMetamaskConnected) {
 
