@@ -129,7 +129,7 @@ async function loadInitialData(sClass) {
         }
 
         if(currentDate > endDate || isStakingPaused) {
-            $('.stake-btn-block').hide();
+            $('.stake-btn-block').show();
         } else {
             $('.stake-btn-block').show();
         }
