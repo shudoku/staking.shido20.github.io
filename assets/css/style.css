@@ -12626,11 +12626,20 @@ div.latest-item .hover-shape-bg {
 }
 
 .white-btn {
-  background: #FFFFFF;
-  color: #090A1A;
-  margin-left: 25px;
-  padding: 13px 32px 11px;
-  border: none;
+  background: #FF4700;
+  padding: 12px 55px;
+  border-radius: 12px;
+  cursor: pointer;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 70px;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 2;
+  animation: animation-plwpox 300ms ease;
 }
 
 .white-btn img {
