@@ -89,7 +89,6 @@ h6 {
   font-weight: 400;
   text-transform: uppercase;
   font-family: "Russo One", sans-serif;
-  margin-bottom: 0px;
 }
 
 .sec-heading .heading-left-image {
@@ -3986,7 +3985,7 @@ body .modal-backdrop {
   padding-bottom: 30px;
   padding-left: 40px;
   padding-right: 40px;
-  margin: 0px 0px 30px 0px;
+  margin: 10px 0px 30px 0px;
 
 }
 
