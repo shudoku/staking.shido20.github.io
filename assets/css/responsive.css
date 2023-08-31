@@ -3,9 +3,7 @@
 /** 
 *
 * -----------------------------------------------------------------------------
-* Template : GamFi - Metaverse Web3 IGO/IDO Token Launchpad Figma Template
-* Author : uigigs
-* Author URI : http://www.uigigs.com/
+SHIDO 2.0
 *
 * -----------------------------------------------------------------------------
 *
@@ -1195,7 +1193,7 @@
         margin-left: 0;
     }
     .project-details-conent .project-item {
-        padding: 35px 20px;
+        padding: 30px 20px;
     }
     .project-details-conent .project-service{
         display: block;
@@ -1460,7 +1458,7 @@
     font-family: 'Inter', sans-serif;
 }
 .project-details-conent .table-item h5,
- .project-details-conent .table-item {margin-bottom: 0px !important; margin-top: 0px !important}
+ .project-details-conent .table-item {margin-bottom: 40px !important; margin-top: 0px !important}
 @media only screen and (max-width: 800px) {
     .gamfi-footer-section .footer-area {
         padding-top: 50px;
@@ -1652,7 +1650,7 @@
         padding-left: 25px;
     }
     .gamfi-footer-section .footer-cta-area .title, .sec-heading .title {
-        font-size: 22px;
+        font-size: 50px;
     }
     .blog-detail-conent .blog-area .blog-description .des {
         font-size: 18px;
