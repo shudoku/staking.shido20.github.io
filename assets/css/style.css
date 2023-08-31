@@ -12635,7 +12635,7 @@ div.latest-item .hover-shape-bg {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  gap: 50px;
+  gap: 20px;
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
   line-height: 2;
@@ -12645,7 +12645,7 @@ div.latest-item .hover-shape-bg {
 .white-btn img {
   position: relative;
   top: -1px;
-  margin-right: 2px;
+  margin-right: 0px;
 }
 
 .banner-btn {
