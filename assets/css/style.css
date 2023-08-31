@@ -12627,7 +12627,7 @@ div.latest-item .hover-shape-bg {
 
 .white-btn {
   background: #FF0200;
-  padding: 12px 20px;
+  padding: 10px 20px;
   border-radius: 12px;
   cursor: pointer;
   display: inline-flex;
@@ -12635,7 +12635,7 @@ div.latest-item .hover-shape-bg {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  gap: 70px;
+  gap: 50px;
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
   line-height: 2;
