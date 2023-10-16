@@ -1,7 +1,3 @@
-console.log("############################################");
-console.log("#        Hi there technical person         #");
-console.log("############################################");
-
 const _NETWORK_ID = 56;
 let _CONTRACT_DATA = {};
 
